@@ -1,0 +1,8 @@
+node_modules
+coverage
+jest.config.json
+src/serviceWorker.ts
+src/**/*.css
+src/**/*.svg
+src/**/*.png
+src/**/*.json
